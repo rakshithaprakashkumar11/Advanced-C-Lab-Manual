@@ -1,4 +1,4 @@
-## EXP NO 3A : C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
+## EXP : C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
 ## Aim:
 To write a C program to display stack elements using an array.
